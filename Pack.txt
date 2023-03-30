@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format":9 ,
+    "description":"Texturepack creado por gxdv_iw, Mrkarma27 y benohue"
+  }
+}
